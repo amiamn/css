@@ -1,0 +1,13 @@
+
+/* h1{
+color: red;
+} */
+
+h1,p{
+    background-color: #568FBE;
+    color: pink;
+}
+
+ul{
+    background-color: #512BD6;
+}
